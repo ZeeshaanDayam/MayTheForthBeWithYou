@@ -83,6 +83,5 @@ For extra credit, user-defined functions have been partially implemented. See th
 
 ## Author Notes
 
-- This project is intended as a learning tool and a template for future assignments.
-- Please report any issues or suggestions to the project maintainer.
-- Enjoy exploring Haskell and the world of FORTH!
+- Assignment by Zeeshaan Dayam
+- UFID: 85934599
