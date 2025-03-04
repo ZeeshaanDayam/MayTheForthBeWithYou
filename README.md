@@ -1,7 +1,3 @@
-Below is an example of a README.md file you could use for your project:
-
----
-
 # FORTH Interpreter in Haskell
 
 This project is a FORTH interpreter implemented in Haskell. It is designed as an assignment template to help you learn Haskell, the Cabal build system, and unit/functional testing. The interpreter supports arithmetic operations, string manipulation, and a few built-in functions like `EMIT`, `CR`, `STR`, `CONCAT2`, and `CONCAT3`.
