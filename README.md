@@ -35,20 +35,6 @@ To compile the existing code, run:
 cabal build
 ```
 
-### Running the Interpreter
-
-You can run the interpreter by specifying a test file as an argument. For example:
-
-```bash
-cabal run tests/t1.4TH
-```
-
-Alternatively, you can run the executable directly:
-
-```bash
-dist/build/FORTH/FORTH tests/t1.4TH
-```
-
 ### Running Unit Tests
 
 Unit tests are written using HSpec. To run the unit tests, use the `runhaskell` command:
